@@ -1,0 +1,5 @@
+motd:
+  icon: "icon"
+  text:
+    one: "line one"
+    two: "line two"
